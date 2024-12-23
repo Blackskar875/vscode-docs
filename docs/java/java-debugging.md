@@ -1,4 +1,9 @@
----
+{
+            implementation("com.github.paysafegroup.paysafe_sdk_android_payments_api:venmo:x.y.z")
+            implementation("com.github.paysafegroup.paysafe_sdk_android_payments_api:google-pay:x.y.z")
+            implementation("com.github.paysafegroup.paysafe_sdk_android_payments_api:card-payments:x.y.z")
+            implementation("com.github.paysafegroup.paysafe_sdk_android_payments_api:threedsecure:x.y.z")
+              }---
 Order: 7
 Area: java
 TOCTitle: Run and Debug
